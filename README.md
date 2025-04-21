@@ -17,7 +17,7 @@ This project is a simple ARM64 emulator that allows you to simulate and inspect 
 Clone this repository using:
 
 ```bash
-git clone https://github.com/yourusername/Emulator-ARM64.git
+https://github.com/Schnoww/Emulator-ARM64.git
 ```
 
 Edit the ARM64 Assembly Code
