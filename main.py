@@ -7,8 +7,7 @@ from job import *
 def main():
     #file we are using
     # filePath = "ARM_assembly.txt"
-    # filePath = "test1.txt"
-    filePath = "/Users/nolanpieters/Desktop/project1/ARM64-Emulator/test4.txt"
+    filePath = "test1.txt"
 
     #open and read the file
     try:
